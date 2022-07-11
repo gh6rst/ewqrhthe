@@ -1,0 +1,17 @@
+{
+    "name": "ewqrhthe",
+    "description": "",
+    "keywords": [""],
+    "env": {
+        "PROTOCOL": {
+            "description": "choose vless or vmess",
+            "value": "vless"
+        },
+        "UUID": {
+            "description": "xray UUID",
+            "value": "36cfc3de-ecfd-4752-ae6f-8f0f92035143"        
+        }
+    },
+    "repository": "https://github.com/gh6rst/ewqrhthe",
+    "stack": "container"
+}
